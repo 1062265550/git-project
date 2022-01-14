@@ -10,4 +10,6 @@ hello world!
 hello world!
 hello world!
 hello world! master test
+hello world! hot-fix test
 hello world!
+这个是在产生代码冲突的时候我人为再添加的内容
